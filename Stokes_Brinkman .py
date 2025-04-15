@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May 14 14:59:47 2021
 
-@author: C00257297
-"""
 
 from fenics import *
 from mshr import *
